@@ -1,4 +1,7 @@
-# api documentation for  [ember-buffered-proxy (v0.7.0)](https://github.com/yapplabs/ember-buffered-proxy#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-buffered-proxy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-buffered-proxy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-buffered-proxy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-buffered-proxy)
+# npmdoc-ember-buffered-proxy
+
+#### basic api documentation for  [ember-buffered-proxy (v0.7.0)](https://github.com/yapplabs/ember-buffered-proxy#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-buffered-proxy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-buffered-proxy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-buffered-proxy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-buffered-proxy)
+
 #### An Ember Object Proxy with change buffering
 
 [![NPM](https://nodei.co/npm/ember-buffered-proxy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-buffered-proxy)
@@ -104,7 +107,8 @@
         "start": "ember server",
         "test": "ember try:each"
     },
-    "version": "0.7.0"
+    "version": "0.7.0",
+    "bin": {}
 }
 ```
 
